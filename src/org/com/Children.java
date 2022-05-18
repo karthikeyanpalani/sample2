@@ -6,9 +6,11 @@ public class Children {
 		
 		System.out.println("karthi");
 		
-		int age=500;
+		System.out.println("karthikeyan");
 		
-		System.out.println(age);
+		int age=500;
+
+        System.out.println(age);
 		
 	}
 

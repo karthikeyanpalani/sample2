@@ -8,6 +8,10 @@ public class Children {
 		
 		System.out.println("karthikeyan");
 		
+		int age=500;
+
+        System.out.println(age);
+		
 	}
 
 }
